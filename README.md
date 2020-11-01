@@ -1,1 +1,1 @@
-# OptifineDoc_zh_cn
+# Optifine中文文档
